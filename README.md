@@ -20,6 +20,9 @@ This project is designed to automate the testing of a form on a test website usi
 2. Install dependencies:
    npm i or npm install
 
+3. Install Cypress as a development dependency:
+   npm install cypress --dev
+
 ## Running the Tests
 
 ### Open Cypress Test Runner
